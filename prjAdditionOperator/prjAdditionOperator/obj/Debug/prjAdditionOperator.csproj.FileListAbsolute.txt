@@ -1,0 +1,9 @@
+c:\users\raisa\documents\visual studio 2012\Projects\prjAdditionOperator\prjAdditionOperator\bin\Debug\prjAdditionOperator.exe.config
+c:\users\raisa\documents\visual studio 2012\Projects\prjAdditionOperator\prjAdditionOperator\bin\Debug\prjAdditionOperator.exe
+c:\users\raisa\documents\visual studio 2012\Projects\prjAdditionOperator\prjAdditionOperator\bin\Debug\prjAdditionOperator.pdb
+c:\users\raisa\documents\visual studio 2012\Projects\prjAdditionOperator\prjAdditionOperator\obj\Debug\prjAdditionOperator.csprojResolveAssemblyReference.cache
+c:\users\raisa\documents\visual studio 2012\Projects\prjAdditionOperator\prjAdditionOperator\obj\Debug\prjAdditionOperator.frmAddition.resources
+c:\users\raisa\documents\visual studio 2012\Projects\prjAdditionOperator\prjAdditionOperator\obj\Debug\prjAdditionOperator.Properties.Resources.resources
+c:\users\raisa\documents\visual studio 2012\Projects\prjAdditionOperator\prjAdditionOperator\obj\Debug\prjAdditionOperator.csproj.GenerateResource.Cache
+c:\users\raisa\documents\visual studio 2012\Projects\prjAdditionOperator\prjAdditionOperator\obj\Debug\prjAdditionOperator.exe
+c:\users\raisa\documents\visual studio 2012\Projects\prjAdditionOperator\prjAdditionOperator\obj\Debug\prjAdditionOperator.pdb

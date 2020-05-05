@@ -1,0 +1,9 @@
+c:\users\raisa\documents\visual studio 2012\Projects\prjVelocity\prjVelocity\bin\Debug\prjVelocity.exe.config
+c:\users\raisa\documents\visual studio 2012\Projects\prjVelocity\prjVelocity\bin\Debug\prjVelocity.exe
+c:\users\raisa\documents\visual studio 2012\Projects\prjVelocity\prjVelocity\bin\Debug\prjVelocity.pdb
+c:\users\raisa\documents\visual studio 2012\Projects\prjVelocity\prjVelocity\obj\Debug\prjVelocity.csprojResolveAssemblyReference.cache
+c:\users\raisa\documents\visual studio 2012\Projects\prjVelocity\prjVelocity\obj\Debug\prjVelocity.frmVelocity.resources
+c:\users\raisa\documents\visual studio 2012\Projects\prjVelocity\prjVelocity\obj\Debug\prjVelocity.Properties.Resources.resources
+c:\users\raisa\documents\visual studio 2012\Projects\prjVelocity\prjVelocity\obj\Debug\prjVelocity.csproj.GenerateResource.Cache
+c:\users\raisa\documents\visual studio 2012\Projects\prjVelocity\prjVelocity\obj\Debug\prjVelocity.exe
+c:\users\raisa\documents\visual studio 2012\Projects\prjVelocity\prjVelocity\obj\Debug\prjVelocity.pdb
