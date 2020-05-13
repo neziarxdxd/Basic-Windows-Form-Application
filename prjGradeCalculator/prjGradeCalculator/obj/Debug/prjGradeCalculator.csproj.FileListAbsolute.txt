@@ -1,0 +1,9 @@
+c:\users\raisa\documents\visual studio 2012\Projects\prjGradeCalculator\prjGradeCalculator\bin\Debug\prjGradeCalculator.exe.config
+c:\users\raisa\documents\visual studio 2012\Projects\prjGradeCalculator\prjGradeCalculator\bin\Debug\prjGradeCalculator.exe
+c:\users\raisa\documents\visual studio 2012\Projects\prjGradeCalculator\prjGradeCalculator\bin\Debug\prjGradeCalculator.pdb
+c:\users\raisa\documents\visual studio 2012\Projects\prjGradeCalculator\prjGradeCalculator\obj\Debug\prjGradeCalculator.csprojResolveAssemblyReference.cache
+c:\users\raisa\documents\visual studio 2012\Projects\prjGradeCalculator\prjGradeCalculator\obj\Debug\prjGradeCalculator.Form1.resources
+c:\users\raisa\documents\visual studio 2012\Projects\prjGradeCalculator\prjGradeCalculator\obj\Debug\prjGradeCalculator.Properties.Resources.resources
+c:\users\raisa\documents\visual studio 2012\Projects\prjGradeCalculator\prjGradeCalculator\obj\Debug\prjGradeCalculator.csproj.GenerateResource.Cache
+c:\users\raisa\documents\visual studio 2012\Projects\prjGradeCalculator\prjGradeCalculator\obj\Debug\prjGradeCalculator.exe
+c:\users\raisa\documents\visual studio 2012\Projects\prjGradeCalculator\prjGradeCalculator\obj\Debug\prjGradeCalculator.pdb
