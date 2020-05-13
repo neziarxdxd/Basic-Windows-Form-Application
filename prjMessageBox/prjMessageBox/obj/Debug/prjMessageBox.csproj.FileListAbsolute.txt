@@ -1,0 +1,9 @@
+c:\users\raisa\documents\visual studio 2012\Projects\prjMessageBox\prjMessageBox\bin\Debug\prjMessageBox.exe.config
+c:\users\raisa\documents\visual studio 2012\Projects\prjMessageBox\prjMessageBox\bin\Debug\prjMessageBox.exe
+c:\users\raisa\documents\visual studio 2012\Projects\prjMessageBox\prjMessageBox\bin\Debug\prjMessageBox.pdb
+c:\users\raisa\documents\visual studio 2012\Projects\prjMessageBox\prjMessageBox\obj\Debug\prjMessageBox.csprojResolveAssemblyReference.cache
+c:\users\raisa\documents\visual studio 2012\Projects\prjMessageBox\prjMessageBox\obj\Debug\prjMessageBox.frmMessageBox.resources
+c:\users\raisa\documents\visual studio 2012\Projects\prjMessageBox\prjMessageBox\obj\Debug\prjMessageBox.Properties.Resources.resources
+c:\users\raisa\documents\visual studio 2012\Projects\prjMessageBox\prjMessageBox\obj\Debug\prjMessageBox.csproj.GenerateResource.Cache
+c:\users\raisa\documents\visual studio 2012\Projects\prjMessageBox\prjMessageBox\obj\Debug\prjMessageBox.exe
+c:\users\raisa\documents\visual studio 2012\Projects\prjMessageBox\prjMessageBox\obj\Debug\prjMessageBox.pdb
