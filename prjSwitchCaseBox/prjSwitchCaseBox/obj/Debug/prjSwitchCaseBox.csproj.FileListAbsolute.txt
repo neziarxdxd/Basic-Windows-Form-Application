@@ -1,0 +1,9 @@
+c:\users\raisa\documents\visual studio 2012\Projects\prjSwitchCaseBox\prjSwitchCaseBox\bin\Debug\prjSwitchCaseBox.exe.config
+c:\users\raisa\documents\visual studio 2012\Projects\prjSwitchCaseBox\prjSwitchCaseBox\obj\Debug\prjSwitchCaseBox.csprojResolveAssemblyReference.cache
+c:\users\raisa\documents\visual studio 2012\Projects\prjSwitchCaseBox\prjSwitchCaseBox\obj\Debug\prjSwitchCaseBox.frmSwitchCaseBox.resources
+c:\users\raisa\documents\visual studio 2012\Projects\prjSwitchCaseBox\prjSwitchCaseBox\obj\Debug\prjSwitchCaseBox.Properties.Resources.resources
+c:\users\raisa\documents\visual studio 2012\Projects\prjSwitchCaseBox\prjSwitchCaseBox\obj\Debug\prjSwitchCaseBox.csproj.GenerateResource.Cache
+c:\users\raisa\documents\visual studio 2012\Projects\prjSwitchCaseBox\prjSwitchCaseBox\bin\Debug\prjSwitchCaseBox.exe
+c:\users\raisa\documents\visual studio 2012\Projects\prjSwitchCaseBox\prjSwitchCaseBox\bin\Debug\prjSwitchCaseBox.pdb
+c:\users\raisa\documents\visual studio 2012\Projects\prjSwitchCaseBox\prjSwitchCaseBox\obj\Debug\prjSwitchCaseBox.exe
+c:\users\raisa\documents\visual studio 2012\Projects\prjSwitchCaseBox\prjSwitchCaseBox\obj\Debug\prjSwitchCaseBox.pdb
